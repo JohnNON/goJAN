@@ -1,0 +1,8 @@
+bind_addr = ":8080"
+log_level = "debug"
+database_url = ""
+database_driver = "postgres"
+session_key = ""
+session_maxage = 3600
+csrf_key = ""
+csrf_secure_flag = false
